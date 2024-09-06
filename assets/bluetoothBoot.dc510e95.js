@@ -1,0 +1,1 @@
+import{b as t}from"./index.42812f5f.js";import{$ as r}from"./bluetooth.98a73b45.js";import"./proj.c54c2c2d.js";import"./extent.d7cb0bc8.js";var l=t(({app:o})=>{o.config.globalProperties.$bluetooth=r});export{l as default};
